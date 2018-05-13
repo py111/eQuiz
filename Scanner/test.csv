@@ -1,0 +1,19 @@
+Q,Capital city of Mexico?
+O,Paris
+O,Mexico City
+Q,Capital city of Colombia?
+O,Caracas
+A,Bogota
+O,Lima
+Q,Capital city of France?
+A,Paris
+O,Rennes
+O,Lima
+Q,Capital city of Lebanon
+O,Chicago
+O,Rennes
+A,Beirut
+Q,Capital city of Australia?
+A,Sidney
+O,London
+O,Lima
